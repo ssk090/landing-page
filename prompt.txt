@@ -1,0 +1,1 @@
+build a simple, minimalistic, modern hero section with lots of microinteractions around agents, the hero component that you are going to create is for a landing page that sells AI agents. Write appropriate copy that coverts. Make sure its visually appealing and modern. Make it a component with react, tailwind css and framer motion
